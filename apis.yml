@@ -41,6 +41,8 @@ apis:
       - type: x-api-endpoint
         url: https://datosabiertos.malaga.eu/api/3/action/status_show
 common:
+  - type: DomainSecurity
+    url: security/datosabiertos-malaga-eu-domain-security.yml
   - type: Website
     url: https://datosabiertos.malaga.eu
   - type: Documentation
