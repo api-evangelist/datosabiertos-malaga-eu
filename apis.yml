@@ -30,7 +30,7 @@ tags:
   - Spain
 created: '2026-06-04'
 modified: '2026-06-04'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: datosabiertos-malaga-eu:catalog
     name: Portal Datos Abiertos Ayuntamiento de Málaga CKAN Action API
